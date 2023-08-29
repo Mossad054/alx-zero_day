@@ -1,9 +1,4 @@
 #!/bin/bash
-update_script
 echo "ALX School"
 echo "ALX School is so cool!"
-<<<<<<< HEAD
- 
-=======
- master
->>>>>>> 490be027cc08b152ca702cde22d4671cc799e21e
+
